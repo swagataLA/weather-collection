@@ -1,0 +1,108 @@
+2024-03-27T21:10:02.655635Z: 1 <Ohio> <32> <Minnesota> <21>
+2024-03-27T21:10:02.659648Z: 2 <Ohio> <15> <Minnesota> <9>
+2024-03-27T21:10:02.659689Z: 3 <Ohio> <15> <Minnesota> <3>
+2024-03-27T21:10:02.659713Z: 4 <Minnesota> <4> <Ohio> <4>
+2024-03-27T21:10:02.659738Z: 5 <Minnesota> <35> <Ohio> <4>
+
+2024-03-28T21:46:50.397Z: 1 <Rhode Island> <31> <Minnesota> <21> <Ohio> <20>
+2024-03-28T21:46:50.402Z: 2 <Ohio> <11> <Rhode Island> <3> <Minnesota> <3>
+2024-03-28T21:46:50.402Z: 3 <Ohio> <18> <Minnesota> <9> <Rhode Island> <2>
+2024-03-28T21:46:50.402Z: 4 <Minnesota> <9> <Ohio> <2>
+2024-03-28T21:46:50.402Z: 5 <Rhode Island> <36> <Minnesota> <30> <Ohio> <20>
+
+2024-03-28T21:47:50.397Z: 1 <Texas> <783> <Pennsylvania> <500> <Iowa> <399> <Kansas> <343> <Missouri> <292>
+2024-03-28T21:47:50.397Z: 2 <Texas> <202> <Pennsylvania> <42> <Iowa> <38> <Ohio> <36> <New York> <11>
+2024-03-28T21:47:50.397Z: 3 <Iowa> <59> <Texas> <57> <Ohio> <35> <Pennsylvania> <28> <Colorado> <17>
+2024-03-28T21:47:50.397Z: 4 <Ohio> <41> <California> <37> <Iowa> <15> <Colorado> <11> <Illinois> <11>
+2024-03-28T21:47:50.397Z: 5 <Pennsylvania> <351> <California> <332> <New York> <305> <Minnesota> <273> <Iowa> <257>
+
+2024-03-28T21:48:50.397Z: 1 <Texas> <1385> <Pennsylvania> <656> <New York> <636> <Florida> <603> <Iowa> <596>
+2024-03-28T21:48:50.397Z: 2 <Texas> <350> <New York> <135> <Missouri> <32> <South Carolina> <20> <Ohio> <16>
+2024-03-28T21:48:50.397Z: 3 <Missouri> <31> <Texas> <23> <Ohio> <17> <Virginia> <17> <New York> <10>
+2024-03-28T21:48:50.397Z: 4 <California> <131> <Montana> <44> <Missouri> <21> <Texas> <17> <Illinois> <10>
+2024-03-28T21:48:50.397Z: 5 <California> <762> <New York> <626> <Pennsylvania> <521> <Minnesota> <501> <Wisconsin> <415>
+
+2024-03-28T21:49:50.397Z: 1 <Texas> <1811> <New York> <912> <Pennsylvania> <851> <Florida> <807> <Kansas> <797>
+2024-03-28T21:49:50.397Z: 2 <Texas> <469> <New York> <80> <Colorado> <37> <Michigan> <29> <Louisiana> <28>
+2024-03-28T21:49:50.397Z: 3 <West Virginia> <24> <Texas> <19> <Kentucky> <14> <Illinois> <8> <South Dakota> <7>
+2024-03-28T21:49:50.397Z: 4 <California> <65> <West Virginia> <24> <Texas> <13> <Washington> <13> <Illinois> <9>
+2024-03-28T21:49:50.397Z: 5 <California> <1120> <New York> <888> <Minnesota> <736> <Pennsylvania> <732> <Wisconsin> <494>
+
+2024-03-28T21:50:50.397Z: 1 <Texas> <2514> <Pennsylvania> <1211> <New York> <1152> <Florida> <1032> <Missouri> <954>
+2024-03-28T21:50:50.397Z: 2 <Texas> <676> <Illinois> <56> <Virginia> <22> <Indiana> <18> <Pennsylvania> <15>
+2024-03-28T21:50:50.397Z: 3 <Illinois> <67> <Indiana> <18> <Ohio> <17> <Nevada> <15> <Pennsylvania> <12>
+2024-03-28T21:50:50.397Z: 4 <California> <34> <Illinois> <24> <Ohio> <10> <Pennsylvania> <9> <Indiana> <8>
+2024-03-28T21:50:50.397Z: 5 <California> <1414> <New York> <1108> <Pennsylvania> <1047> <Minnesota> <827> <Wisconsin> <701>
+
+2024-03-28T21:51:50.397Z: 1 <Texas> <3091> <Pennsylvania> <1523> <New York> <1427> <Florida> <1393> <Missouri> <1304>
+2024-03-28T21:51:50.397Z: 2 <Texas> <811> <Illinois> <59> <Indiana> <20> <Nebraska> <19> <Virginia> <10>
+2024-03-28T21:51:50.397Z: 3 <Illinois> <60> <Indiana> <14> <Alaska> <13> <Georgia> <12> <Minnesota> <9>
+2024-03-28T21:51:50.397Z: 4 <Illinois> <77> <Montana> <26> <Utah> <18> <Alaska> <10> <Indiana> <6>
+2024-03-28T21:51:50.397Z: 5 <California> <1635> <New York> <1450> <Pennsylvania> <1284> <Minnesota> <1008> <Ohio> <864>
+
+2024-03-28T21:52:50.397Z: 1 <Texas> <3763> <Pennsylvania> <2012> <New York> <1802> <Florida> <1601> <Missouri> <1414>
+2024-03-28T21:52:50.397Z: 2 <Texas> <996> <New York> <152> <Oklahoma> <61> <Wisconsin> <50> <New Jersey> <16>
+2024-03-28T21:52:50.397Z: 3 <New York> <17> <Oklahoma> <16> <Texas> <16> <New Jersey> <4>
+2024-03-28T21:52:50.397Z: 4 <California> <139> <New York> <12> <Texas> <11> <Georgia> <6> <New Jersey> <6>
+2024-03-28T21:52:50.397Z: 5 <California> <1977> <New York> <1807> <Pennsylvania> <1649> <Minnesota> <1095> <Ohio> <1026>
+
+2024-03-28T21:53:50.397Z: 1 <Texas> <4085> <Pennsylvania> <2507> <New York> <2111> <Florida> <1908> <Missouri> <1766>
+2024-03-28T21:53:50.397Z: 2 <Texas> <1100> <New York> <247> <Iowa> <102> <Pennsylvania> <49> <South Dakota> <19>
+2024-03-28T21:53:50.397Z: 3 <West Virginia> <19> <Nebraska> <18> <Iowa> <12> <Michigan> <12> <Missouri> <9>
+2024-03-28T21:53:50.397Z: 4 <Oregon> <16> <Wisconsin> <14> <Minnesota> <10> <North Carolina> <6> <Iowa> <6>
+2024-03-28T21:53:50.397Z: 5 <California> <2385> <New York> <2130> <Pennsylvania> <2009> <Minnesota> <1251> <Ohio> <1130>
+
+2024-03-28T21:54:50.397Z: 1 <Texas> <4709> <Pennsylvania> <2912> <New York> <2499> <Florida> <2177> <Missouri> <1911>
+2024-03-28T21:54:50.397Z: 2 <Texas> <1274> <New York> <392> <Michigan> <40> <Kentucky> <33> <Iowa> <30>
+2024-03-28T21:54:50.397Z: 3 <New York> <25> <Kentucky> <14> <Michigan> <9> <Pennsylvania> <7> <Massachusetts> <5>
+2024-03-28T21:54:50.397Z: 4 <California> <126> <Minnesota> <12> <Illinois> <8> <Kentucky> <8> <Pennsylvania> <6>
+2024-03-28T21:54:50.397Z: 5 <California> <2829> <New York> <2459> <Pennsylvania> <2284> <Minnesota> <1454> <Ohio> <1269>
+
+2024-03-28T21:55:50.397Z: 1 <Texas> <5124> <Pennsylvania> <3160> <New York> <2762> <Alabama> <2303> <Florida> <2274>
+2024-03-28T21:55:50.397Z: 2 <Texas> <1394> <Iowa> <72> <Kentucky> <26> <New York> <24> <West Virginia> <15>
+2024-03-28T21:55:50.397Z: 3 <Illinois> <66> <Iowa> <52> <Ohio> <39> <West Virginia> <16> <California> <16>
+2024-03-28T21:55:50.397Z: 4 <Montana> <55> <California> <48> <Ohio> <31> <North Dakota> <19> <New York> <13>
+2024-03-28T21:55:50.397Z: 5 <California> <3150> <New York> <2770> <Pennsylvania> <2443> <Minnesota> <1585> <Ohio> <1559>
+
+2024-03-28T21:56:50.397Z: 1 <Texas> <5468> <Pennsylvania> <3619> <New York> <3020> <Florida> <2545> <Kansas> <2500>
+2024-03-28T21:56:50.397Z: 2 <Texas> <1460> <Pennsylvania> <67> <Illinois> <53> <New York> <36> <Indiana> <36>
+2024-03-28T21:56:50.397Z: 3 <Ohio> <163> <Illinois> <29> <New York> <22> <Virginia> <20> <North Carolina> <16>
+2024-03-28T21:56:50.397Z: 4 <California> <60> <Illinois> <44> <Indiana> <26> <Ohio> <15> <North Carolina> <10>
+2024-03-28T21:56:50.397Z: 5 <California> <3487> <New York> <3030> <Pennsylvania> <2811> <Ohio> <1870> <Minnesota> <1585>
+
+2024-03-28T21:57:50.397Z: 1 <Texas> <5968> <Pennsylvania> <4073> <New York> <3353> <Florida> <2809> <Kansas> <2716>
+2024-03-28T21:57:50.397Z: 2 <Texas> <1600> <Pennsylvania> <26> <Kentucky> <21> <Ohio> <16> <Louisiana> <9>
+2024-03-28T21:57:50.397Z: 3 <Ohio> <21> <Texas> <14> <Missouri> <12> <North Carolina> <7> <Kentucky> <7>
+2024-03-28T21:57:50.397Z: 4 <California> <18> <Kentucky> <6> <Florida> <5> <Pennsylvania> <3> <Texas> <2>
+2024-03-28T21:57:50.397Z: 5 <California> <3792> <New York> <3315> <Pennsylvania> <3198> <Ohio> <2041> <Minnesota> <1667>
+
+2024-03-28T21:58:50.397Z: 1 <Texas> <6617> <Pennsylvania> <4507> <New York> <3723> <Florida> <3025> <Alabama> <2854>
+2024-03-28T21:58:50.397Z: 2 <Texas> <1817> <New York> <115> <Puerto Rico> <15> <Pennsylvania> <15> <Washington> <12>
+2024-03-28T21:58:50.397Z: 3 <New York> <52> <Ohio> <14> <Oregon> <13> <Maryland> <7> <Washington> <6>
+2024-03-28T21:58:50.397Z: 4 <New York> <37> <Puerto Rico> <10> <Washington> <10> <Oregon> <9> <Minnesota> <6>
+2024-03-28T21:58:50.397Z: 5 <California> <4094> <New York> <3730> <Pennsylvania> <3496> <Ohio> <2251> <Minnesota> <1916>
+
+2024-03-28T21:59:50.397Z: 1 <Texas> <7000> <Pennsylvania> <4879> <New York> <3866> <Florida> <3288> <Alabama> <3171>
+2024-03-28T21:59:50.397Z: 2 <Texas> <1913> <Nebraska> <66> <Virginia> <37> <Iowa> <26> <Arkansas> <14>
+2024-03-28T21:59:50.397Z: 3 <Virginia> <54> <Texas> <52> <Illinois> <11> <Nebraska> <11> <Ohio> <8>
+2024-03-28T21:59:50.397Z: 4 <Texas> <40> <Hawaii> <34> <Virginia> <21> <Washington> <10> <Nebraska> <10>
+2024-03-28T21:59:50.397Z: 5 <California> <4330> <New York> <3889> <Pennsylvania> <3779> <Ohio> <2497> <Minnesota> <2146>
+
+2024-03-28T22:00:50.397Z: 1 <Texas> <7845> <Pennsylvania> <5288> <New York> <4128> <Florida> <3847> <Alabama> <3647>
+2024-03-28T22:00:50.397Z: 2 <Texas> <2138> <New York> <61> <Indiana> <35> <Oregon> <26> <Missouri> <22>
+2024-03-28T22:00:50.397Z: 3 <Indiana> <31> <Virginia> <26> <Missouri> <20> <Nebraska> <18> <Montana> <9>
+2024-03-28T22:00:50.397Z: 4 <California> <81> <Montana> <56> <Indiana> <20> <Nebraska> <11> <Texas> <7>
+2024-03-28T22:00:50.397Z: 5 <California> <4782> <New York> <4241> <Pennsylvania> <4050> <Ohio> <2647> <Minnesota> <2273>
+
+2024-03-28T22:01:50.397Z: 1 <Texas> <8284> <Pennsylvania> <5435> <New York> <4391> <Florida> <4309> <Alabama> <3821>
+2024-03-28T22:01:50.397Z: 2 <Texas> <2250> <Illinois> <60> <New York> <47> <Kentucky> <38> <Arizona> <14>
+2024-03-28T22:01:50.397Z: 3 <Illinois> <107> <West Virginia> <57> <New York> <42> <Kentucky> <33> <Tennessee> <7>
+2024-03-28T22:01:50.397Z: 4 <California> <67> <Illinois> <48> <Washington> <10> <New York> <6>
+2024-03-28T22:01:50.397Z: 5 <California> <5066> <New York> <4533> <Pennsylvania> <4203> <Ohio> <2816> <Minnesota> <2445>
+
+2024-03-28T22:02:50.397Z: 1 <Texas> <8618> <Pennsylvania> <5741> <New York> <4690> <Florida> <4682> <Alabama> <4061>
+2024-03-28T22:02:50.397Z: 2 <Texas> <2354> <New York> <106> <Iowa> <40> <Illinois> <17> <Pennsylvania> <12>
+2024-03-28T22:02:50.397Z: 3 <Illinois> <26> <New York> <16> <Utah> <14> <Michigan> <8> <Mississippi> <6>
+2024-03-28T22:02:50.397Z: 4 <California> <170> <North Dakota> <11> <New York> <10> <Michigan> <10> <Mississippi> <2>
+2024-03-28T22:02:50.397Z: 5 <California> <5507> <New York> <4893> <Pennsylvania> <4566> <Ohio> <2947> <Minnesota> <2569>
+
